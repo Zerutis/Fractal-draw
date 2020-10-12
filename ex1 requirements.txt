@@ -1,8 +1,0 @@
-Pagal fraktalo paveksliuką:
-
-Rasti pagrindines 4 transformacijas matricų pavidale (užrašyti tekstu);
-parašyti programą, kuri generuotų tą patį paveiksliuką (interaktyviai pasirenkant žingsnių skaičių),
-kurio 4 dalys nuspalvintos skirtingomis spalvomis;
-Animuoti atskirai visas 4 transformacijas: T_1,…, T_4:
-- nupiešti pradinę nesimetrišką figūrą F ir pasirinkti transformaciją T_i;
-- animuoti F taip, kad ji judėtų iš pradinės padėties į T_i(F).
